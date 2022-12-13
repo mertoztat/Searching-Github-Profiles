@@ -1,6 +1,6 @@
 ## That project is you can find github user profile and user repos details.
 
-### Check out [Live version](https://github-profile-search-eight.vercel.app/)
+### Check out [Live version](https://github-searcing-profile.vercel.app/)
 
 
 
